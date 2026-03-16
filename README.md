@@ -56,7 +56,7 @@ OptionsTradingSystem/\
 │ │ ├── PositionManager.cpp\
 │ │ ├── Strategy.cpp\
 │ │ ├── RiskManager.cpp\
-│ │ └── Logger.cpp\
+│ │ └── [Logger.cpp](https://github.com/manuelmusngi/systematic-options-strategy-cpp-framework/blob/main/src/primary/Logger.cpp)\
 │ ├── models/\
 │ │ ├── Option.cpp\
 │ │ └── Greeks.cpp\
