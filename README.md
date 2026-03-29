@@ -37,12 +37,12 @@ This structure lets researchers and engineers iterate on model choices (empirica
 OptionsTradingSystem/\
 ├── include/\
 │ ├── primary/\
-│ │ ├── [MarketData.hpp](https://github.com/manuelmusngi/systematic-options-strategy-cpp-framework/blob/main/include/primary/MarketData.hpp)\
-│ │ ├── [OrderManager.hpp](https://github.com/manuelmusngi/systematic-options-strategy-cpp-framework/blob/main/include/primary/OrderManager.hpp)\
-│ │ ├── [PositionManager.hpp](https://github.com/manuelmusngi/systematic-options-strategy-cpp-framework/blob/main/include/primary/PositionManager.hpp)\
-│ │ ├── [Strategy.hpp](https://github.com/manuelmusngi/systematic-options-strategy-cpp-framework/blob/main/include/primary/Strategy.hpp)\
-│ │ ├── [RiskManager.hpp](https://github.com/manuelmusngi/systematic-options-strategy-cpp-framework/blob/main/include/primary/RiskManager.hpp)\
-│ │ └── [Logger.hpp](https://github.com/manuelmusngi/systematic-options-strategy-cpp-framework/blob/main/include/primary/Logger.hpp)\
+│ │ ├── MarketData.hpp\
+│ │ ├── OrderManager.hpp\
+│ │ ├── PositionManager.hpp\
+│ │ ├── Strategy.hpp\
+│ │ ├── RiskManager.hpp\
+│ │ └── Logger.hpp\
 │ ├── models/\
 │ │ ├── Option.hpp\
 │ │ └── Greeks.hpp\
@@ -56,7 +56,7 @@ OptionsTradingSystem/\
 │ │ ├── PositionManager.cpp\
 │ │ ├── Strategy.cpp\
 │ │ ├── RiskManager.cpp\
-│ │ └── [Logger.cpp](https://github.com/manuelmusngi/systematic-options-strategy-cpp-framework/blob/main/src/primary/Logger.cpp)\
+│ │ └── Logger.cpp\
 │ ├── models/\
 │ │ ├── Option.cpp\
 │ │ └── Greeks.cpp\
@@ -65,8 +65,8 @@ OptionsTradingSystem/\
 │ │ └── MathUtils.cpp\
 │ └── main.cpp\
 ├── strategies/\
-│ ├── [IronCondorStrategy.hpp](https://github.com/manuelmusngi/systematic-options-strategy-cpp-framework/blob/main/strategies/IronCondorStrategy.hpp)\
-│ └── [IronCondorStrategy.cpp](https://github.com/manuelmusngi/systematic-options-strategy-cpp-framework/blob/main/strategies/IronCondorStrategy.cpp)\
+│ ├── IronCondorStrategy.hpp\
+│ └── IronCondorStrategy.cpp\
 └── config/\
 └── strategy_config.json(Example)
 
