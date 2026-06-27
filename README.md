@@ -1,7 +1,7 @@
 <p align="center">
 
   <!-- Project Identity -->
-  <img src="https://img.shields.io/badge/Project-Derivatives%20SystematicOptions%20-1A73E8?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project-Derivatives%20Systematic%20Options%20-1A73E8?style=for-the-badge&logo=python&logoColor=white" />
 
   <!-- Build & Repo Status -->
   <img src="https://img.shields.io/github/languages/top/manuelmusngi/derivatives_models-options?style=for-the-badge&color=yellow" />
