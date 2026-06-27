@@ -1,3 +1,13 @@
+<p align="center">
+
+  <!-- Project Identity -->
+  <img src="https://img.shields.io/badge/Project-Derivatives%20SystematicOptions%20-1A73E8?style=for-the-badge&logo=python&logoColor=white" />
+
+  <!-- Build & Repo Status -->
+  <img src="https://img.shields.io/github/languages/top/manuelmusngi/derivatives_models-options?style=for-the-badge&color=yellow" />
+
+</p>
+
 #### Project overview
 
 This C++ framework is a modular, extensible platform for designing, backtesting, and deploying systematic options strategies focused on SPX index options, but can be implemented to any instruments with Options contracts. It combines a clean runtime architecture—market‑data ingestion, pluggable strategy modules, order and position management, and risk controls—with a research‑driven approach so strategy logic, sizing, and hedging are informed by contemporary academic methods rather than ad‑hoc heuristics.
