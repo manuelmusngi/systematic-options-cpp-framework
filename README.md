@@ -5,8 +5,8 @@
 
   <!-- Build & Repo Status -->
 
-![C++](https://img.shields.io/badge/C++-92.5%25-blue?logo=c%2b%2b)
-![CMake](https://img.shields.io/badge/CMake-7.5%25-darkgreen?logo=cmake)
+<![C++](https://img.shields.io/badge/C++-92.5%25-blue?logo=c%2b%2b)>
+<![CMake](https://img.shields.io/badge/CMake-7.5%25-darkgreen?logo=cmake)>
 
 </p>
 
