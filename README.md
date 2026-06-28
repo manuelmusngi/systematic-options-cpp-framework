@@ -4,7 +4,9 @@
   <img src="https://img.shields.io/badge/Project-Derivatives%20Systematic%20Options%20-1A73E8?style=for-the-badge&logo=python&logoColor=white" />
 
   <!-- Build & Repo Status -->
-  <img src="https://img.shields.io/github/languages/top/manuelmusngi/derivatives_models-options?style=for-the-badge&color=yellow" />
+
+![C++](https://img.shields.io/badge/C++-92.5%25-blue?logo=c%2b%2b)
+![CMake](https://img.shields.io/badge/CMake-7.5%25-darkgreen?logo=cmake)
 
 </p>
 
